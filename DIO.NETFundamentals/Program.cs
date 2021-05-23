@@ -28,6 +28,7 @@ namespace DIO.NETFundamentals
         {
             DivisaoXPorY.DividirXPorY();
             Distancia.CalcDistancia();
+            Mandioca.CalcMandioca();
         }
     }
 }

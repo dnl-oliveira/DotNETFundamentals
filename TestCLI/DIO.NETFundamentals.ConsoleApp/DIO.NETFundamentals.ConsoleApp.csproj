@@ -1,0 +1,11 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <StartupObject>DIO.NETFundamentals.ConsoleApp.Program</StartupObject>
+    <AssemblyName>DIO.NETFundamentals.ConsoleApp</AssemblyName>
+    <RootNamespace>DIO.NETFundamentals.ConsoleApp</RootNamespace>
+  </PropertyGroup>
+
+</Project>

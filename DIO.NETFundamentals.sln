@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DIO.NETFundamentals", "DIO.NETFundamentals\DIO.NETFundamentals.csproj", "{3904AC46-03EE-4AD4-9CC7-6079F7A6D177}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DIO.NETFundamentals.Desafios", "DIO.NETFundamentals\DIO.NETFundamentals.Desafios.csproj", "{3904AC46-03EE-4AD4-9CC7-6079F7A6D177}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Desafios", "Desafios", "{25D4D428-0111-4AD4-BBB3-43B6B454A36F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{CBC1ED98-A4E6-403B-A30A-E2474DEED29B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,9 +19,16 @@ Global
 		{3904AC46-03EE-4AD4-9CC7-6079F7A6D177}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3904AC46-03EE-4AD4-9CC7-6079F7A6D177}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3904AC46-03EE-4AD4-9CC7-6079F7A6D177}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBC1ED98-A4E6-403B-A30A-E2474DEED29B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBC1ED98-A4E6-403B-A30A-E2474DEED29B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBC1ED98-A4E6-403B-A30A-E2474DEED29B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBC1ED98-A4E6-403B-A30A-E2474DEED29B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{3904AC46-03EE-4AD4-9CC7-6079F7A6D177} = {25D4D428-0111-4AD4-BBB3-43B6B454A36F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {5758CCD6-C0E8-4C05-8600-351229F8C2BC}

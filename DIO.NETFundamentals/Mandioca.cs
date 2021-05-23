@@ -36,7 +36,7 @@
  *
  **********************************************************************************************/
 
-namespace DIO.NETFundamentals
+namespace DIO.NETFundamentals.Desafios
 {
     public class Mandioca
     {

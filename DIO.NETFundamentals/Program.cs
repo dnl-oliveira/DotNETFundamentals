@@ -11,6 +11,7 @@ namespace DIO.NETFundamentals.Desafios
             Distancia.CalcDistancia();
             Mandioca.CalcMandioca();
             BigBang.Bazinga();
+            Coxinha.CalcCoxinhas();
         }
     }
 }
